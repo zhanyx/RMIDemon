@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RMIDemon:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="RMIDemon.war">
+      <element id="artifact" artifact-name="RMIDemon:war exploded" />
+    </root>
+  </artifact>
+</component>
